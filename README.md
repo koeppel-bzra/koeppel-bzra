@@ -22,9 +22,6 @@ Ich baue gerne Webapplikationen von A bis Z, vom Frontend bis zum Backend. Am si
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Aktuell am Lernen**
-
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
@@ -45,11 +42,13 @@ Web-Applikation, mit der man Charaktere für *Dungeons & Dragons* anlegen, konfi
 
 **🏕️ Pfadi-Website Regulastein** · *Einzelarbeit, im Einsatz*
 Komplette Neuentwicklung der öffentlichen Vereinswebsite inklusive Bildergalerie für Lagerfotos – Struktur, Design und Code allein umgesetzt.
-`HTML` `CSS` `JavaScript` → [pfadi-regulastein.ch](https://pfadi-regulastein.ch)
+`HTML` `CSS` `JavaScript`
+🔗 [Code auf GitHub](https://github.com/koeppel-bzra/Pfadi-Website-Rework) · 🌐 [pfadi-regulastein.ch](https://pfadi-regulastein.ch)
 
 **📅 Ereignis-Verwaltung** · *Schulprojekt*
 Web-Applikation zur Planung von Vereinsanlässen: Ereignisse mit Datum, Zeit und Kategorie erstellen, bearbeiten und löschen. Eigenes REST-Backend mit 13 Endpoints, Login/Registrierung über JWT, Passwort-Hashing mit bcrypt und Rollenkonzept.
 `Vite` `TypeScript` `Next.js API-Routes` `NeDB`
+🔗 [Code auf GitHub](https://github.com/koeppel-bzra/Ereignis-Verwaltung-M295)
 
 ---
 
