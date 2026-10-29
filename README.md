@@ -22,7 +22,7 @@ Ich baue gerne Webapplikationen von A bis Z, vom Frontend bis zum Backend. Am si
 
 ### Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea&theme=light),rider](https://skillicons.dev)
 
 ---
 
