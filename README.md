@@ -18,7 +18,7 @@ Ich baue gerne Webapplikationen von A bis Z, vom Frontend bis zum Backend. Am si
 
 ### Datenbanken
 
-[![Datenbanken](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
+[![Datenbanken](https://skillicons.dev/icons?i=mongodb,mysql&theme=light)](https://skillicons.dev)
 
 ### Tools
 
