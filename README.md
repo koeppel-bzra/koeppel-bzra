@@ -30,6 +30,7 @@ Ich baue gerne Webapplikationen von A bis Z, vom Frontend bis zum Backend. Am si
 
 **🐉 DnD Character Configurator** · *Zweierteam, Kurzpraktikum bei der Zühlke Engineering AG*
 Web-Applikation, mit der man Charaktere für *Dungeons & Dragons* anlegen, konfigurieren und speichern kann.
+🔗 [Code auf GitHub](https://github.com/koeppel-bzra/ZuehlkeProjekt)
 `React` `TypeScript` `Tailwind CSS` `C#` `.NET`
 
 **🏕️ Pfadi-Website Regulastein** · *Einzelarbeit, im Einsatz*
